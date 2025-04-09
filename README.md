@@ -16,8 +16,9 @@ Feel free to reach out for any questions, suggestions, or collaborations:
 
 ## 📊 My Progress
 
-![LeetCode Stats](https://img.shields.io/badge/LeetCode%20Profile-Sastidharan_07-blue?logo=leetcode)
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sastidharan_07?theme=dark&font=Boogaloo&ext=heatmap" />
+</p>
 ---
 
 **Happy Coding!** 😄💻
