@@ -9,7 +9,7 @@ I push my solutions daily. You can find the problems categorized by date.
 - **Language**: Java
 
 ## 📬 Contact
-You can reach out through GitHub issues or email me at [sastidharan07@gmail.com](mailto:sastidharan07@gmail.com) for any questions or suggestions.
+You can reach out through GitHub issues, email me at [sastidharan07@gmail.com](mailto:sastidharan07@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/sastidharan7).
 
 ---
 
